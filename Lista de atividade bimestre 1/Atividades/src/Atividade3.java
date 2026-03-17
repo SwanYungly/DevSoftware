@@ -21,7 +21,7 @@ public class Atividade3 {
         int segundos = restoHoras % 60;
 
         // 6. Exibindo o resultado final formatado
-        System.out.println("\nResultado:");
+        System.out.println("\n--------Resultado:");
         System.out.println(horas + " hora(s), " + minutos + " minuto(s) e " + segundos + " segundo(s).");
 
         scan.close();
